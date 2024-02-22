@@ -1,0 +1,30 @@
+#form{
+    width: 50%;
+    margin: 0 auto;
+    border: solid 1px;
+    padding: 13px;
+}
+#button{
+    background-color: black;
+    color: aliceblue;
+    font-size: 16px;
+    text-align: center;
+    padding: 5%;
+    margin: 20px;
+}
+#facebook{
+    display: inline-block;
+    height: 20px;
+    width: 80px;
+    align-items: baseline;
+    flex: ;    
+}
+#table{
+    border-bottom: 1px solid;
+    table-layout: fixed;
+    tr:nt-child(even) {background-color: aqua;}
+}
+.img{
+    width: auto;
+    height: 20px;
+}
